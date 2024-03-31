@@ -1,0 +1,1 @@
+This repo is used only to host a certain version of [vscode-patches](https://github.com/jamestut-vscode/vscode-patches) with some extra debugging bits enabled. These builds might be slower, more verbose, or might not work properly. Intended for author's private use only.
